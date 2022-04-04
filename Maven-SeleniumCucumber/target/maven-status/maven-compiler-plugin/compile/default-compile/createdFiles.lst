@@ -1,0 +1,9 @@
+Pages\OrderdetailsPage.class
+Pages\ShoppingCartPage.class
+Pages\Loginpage.class
+Pages\pagebase.class
+Pages\ProductDetailsPage.class
+Pages\CheckoutPage.class
+Pages\Homepage.class
+Pages\SearchPage.class
+Pages\Registerpage.class
